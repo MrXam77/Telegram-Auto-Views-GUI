@@ -44,3 +44,13 @@ Files:
 -telegram_auto_views_gui.py: The main script to run the GUI application.
 -requirements.txt: List of required Python packages.
 -.gitignore: Git ignore file to exclude unnecessary files from the repository.
+
+License:
+This project is licensed under the MIT License.
+
+
+
+
+
+
+
